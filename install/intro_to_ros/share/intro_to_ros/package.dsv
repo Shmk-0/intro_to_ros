@@ -1,0 +1,6 @@
+source;share/intro_to_ros/hook/pythonpath.ps1
+source;share/intro_to_ros/hook/pythonpath.dsv
+source;share/intro_to_ros/hook/pythonpath.sh
+source;../../build/intro_to_ros/share/intro_to_ros/hook/pythonpath_develop.ps1
+source;../../build/intro_to_ros/share/intro_to_ros/hook/pythonpath_develop.dsv
+source;../../build/intro_to_ros/share/intro_to_ros/hook/pythonpath_develop.sh

@@ -1,0 +1,41 @@
+[4.796s] Invoking command in '/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros': PYTHONPATH=/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build --no-deps symlink_data
+[7.600s] running develop
+[7.602s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[7.603s] !!
+[7.603s] 
+[7.604s]         ********************************************************************************
+[7.604s]         Please avoid running ``setup.py`` and ``easy_install``.
+[7.605s]         Instead, use pypa/build, pypa/installer or other
+[7.605s]         standards-based tools.
+[7.606s] 
+[7.607s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[7.607s]         ********************************************************************************
+[7.608s] 
+[7.608s] !!
+[7.609s]   easy_install.initialize_options(self)
+[9.742s] running egg_info
+[9.743s] creating intro_to_ros.egg-info
+[10.002s] writing intro_to_ros.egg-info/PKG-INFO
+[10.005s] writing dependency_links to intro_to_ros.egg-info/dependency_links.txt
+[10.008s] writing entry points to intro_to_ros.egg-info/entry_points.txt
+[10.009s] writing requirements to intro_to_ros.egg-info/requires.txt
+[10.011s] writing top-level names to intro_to_ros.egg-info/top_level.txt
+[10.012s] writing manifest file 'intro_to_ros.egg-info/SOURCES.txt'
+[10.559s] reading manifest file 'intro_to_ros.egg-info/SOURCES.txt'
+[10.567s] writing manifest file 'intro_to_ros.egg-info/SOURCES.txt'
+[10.813s] running build_ext
+[10.814s] Creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro-to-ros.egg-link (link to .)
+[10.817s] Installing bluerov2_sensors script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+[10.818s] Installing publisher script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+[10.819s] Installing subscriber script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+[10.821s] 
+[10.821s] Installed /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros
+[10.823s] running symlink_data
+[10.823s] creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share
+[10.824s] creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/ament_index
+[10.824s] creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/ament_index/resource_index
+[10.827s] creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/ament_index/resource_index/packages
+[10.828s] symbolically linking /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/resource/intro_to_ros -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/ament_index/resource_index/packages
+[10.830s] creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/intro_to_ros
+[10.831s] symbolically linking /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/package.xml -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/intro_to_ros
+[11.054s] Invoked command in '/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros' returned '0': PYTHONPATH=/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build --no-deps symlink_data
