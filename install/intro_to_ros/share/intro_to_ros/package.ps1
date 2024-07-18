@@ -111,6 +111,5 @@ function colcon_package_source_powershell_script {
 $env:COLCON_CURRENT_PREFIX=(Get-Item $PSCommandPath).Directory.Parent.Parent.FullName
 
 colcon_package_source_powershell_script "$env:COLCON_CURRENT_PREFIX\share/intro_to_ros/hook/pythonpath.ps1"
-colcon_package_source_powershell_script "$env:COLCON_CURRENT_PREFIX\../../build/intro_to_ros/share/intro_to_ros/hook/pythonpath_develop.ps1"
 
 Remove-Item Env:\COLCON_CURRENT_PREFIX

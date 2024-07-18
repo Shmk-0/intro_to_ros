@@ -1,0 +1,43 @@
+running develop
+Removing /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro-to-ros.egg-link (link to .)
+running egg_info
+writing build/intro_to_ros/intro_to_ros.egg-info/PKG-INFO
+writing dependency_links to build/intro_to_ros/intro_to_ros.egg-info/dependency_links.txt
+writing entry points to build/intro_to_ros/intro_to_ros.egg-info/entry_points.txt
+writing requirements to build/intro_to_ros/intro_to_ros.egg-info/requires.txt
+writing top-level names to build/intro_to_ros/intro_to_ros.egg-info/top_level.txt
+reading manifest file 'build/intro_to_ros/intro_to_ros.egg-info/SOURCES.txt'
+writing manifest file 'build/intro_to_ros/intro_to_ros.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build
+creating /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib
+creating /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+copying intro_to_ros/publisher.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+copying intro_to_ros/bluerov2_sensors.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+copying intro_to_ros/subscriber.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+copying intro_to_ros/armdisarm.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+copying intro_to_ros/__init__.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+running install
+running install_lib
+creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/publisher.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/bluerov2_sensors.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/subscriber.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/armdisarm.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/__init__.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/publisher.py to publisher.cpython-312.pyc
+byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/bluerov2_sensors.py to bluerov2_sensors.cpython-312.pyc
+byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/subscriber.py to subscriber.cpython-312.pyc
+byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/armdisarm.py to armdisarm.cpython-312.pyc
+byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/__init__.py to __init__.cpython-312.pyc
+running install_data
+copying resource/intro_to_ros -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/ament_index/resource_index/packages
+copying package.xml -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/intro_to_ros
+running install_egg_info
+Copying build/intro_to_ros/intro_to_ros.egg-info to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros-0.0.0-py3.12.egg-info
+running install_scripts
+Installing bluerov2_sensors script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+Installing publisher script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+Installing subscriber script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+writing list of installed files to '/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/install.log'

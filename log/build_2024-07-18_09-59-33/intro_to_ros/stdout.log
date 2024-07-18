@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing intro_to_ros.egg-info/PKG-INFO
+writing dependency_links to intro_to_ros.egg-info/dependency_links.txt
+writing entry points to intro_to_ros.egg-info/entry_points.txt
+writing requirements to intro_to_ros.egg-info/requires.txt
+writing top-level names to intro_to_ros.egg-info/top_level.txt
+reading manifest file 'intro_to_ros.egg-info/SOURCES.txt'
+writing manifest file 'intro_to_ros.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro-to-ros.egg-link (link to .)
+Installing bluerov2_sensors script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+Installing publisher script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+Installing subscriber script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+
+Installed /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros
+running symlink_data

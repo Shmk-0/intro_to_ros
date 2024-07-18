@@ -1,0 +1,60 @@
+[3.990s] Invoking command in '/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros': PYTHONPATH=/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build
+[5.503s] running develop
+[5.504s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[5.504s] !!
+[5.505s] 
+[5.505s]         ********************************************************************************
+[5.506s]         Please avoid running ``setup.py`` and ``easy_install``.
+[5.506s]         Instead, use pypa/build, pypa/installer or other
+[5.506s]         standards-based tools.
+[5.507s] 
+[5.507s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[5.508s]         ********************************************************************************
+[5.508s] 
+[5.508s] !!
+[5.509s]   easy_install.initialize_options(self)
+[6.641s] Removing /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro-to-ros.egg-link (link to .)
+[6.807s] Invoked command in '/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros' returned '0': PYTHONPATH=/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build
+[6.815s] Invoking command in '/home/shmk/auvc_ws/src/intro_to_ros': PYTHONPATH=/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/intro_to_ros build --build-base /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build install --record /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/install.log --single-version-externally-managed install_data --force
+[8.122s] running egg_info
+[8.653s] writing build/intro_to_ros/intro_to_ros.egg-info/PKG-INFO
+[8.654s] writing dependency_links to build/intro_to_ros/intro_to_ros.egg-info/dependency_links.txt
+[8.655s] writing entry points to build/intro_to_ros/intro_to_ros.egg-info/entry_points.txt
+[8.657s] writing requirements to build/intro_to_ros/intro_to_ros.egg-info/requires.txt
+[8.658s] writing top-level names to build/intro_to_ros/intro_to_ros.egg-info/top_level.txt
+[8.866s] reading manifest file 'build/intro_to_ros/intro_to_ros.egg-info/SOURCES.txt'
+[8.870s] writing manifest file 'build/intro_to_ros/intro_to_ros.egg-info/SOURCES.txt'
+[8.870s] running build
+[8.871s] running build_py
+[8.871s] creating /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build
+[8.872s] creating /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib
+[8.873s] creating /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+[8.873s] copying intro_to_ros/publisher.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+[8.875s] copying intro_to_ros/bluerov2_sensors.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+[8.875s] copying intro_to_ros/subscriber.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+[8.877s] copying intro_to_ros/armdisarm.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+[8.877s] copying intro_to_ros/__init__.py -> /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros
+[8.878s] running install
+[8.901s] running install_lib
+[9.001s] creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+[9.004s] copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/publisher.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+[9.004s] copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/bluerov2_sensors.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+[9.004s] copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/subscriber.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+[9.005s] copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/armdisarm.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+[9.005s] copying /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build/lib/intro_to_ros/__init__.py -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros
+[9.007s] byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/publisher.py to publisher.cpython-312.pyc
+[9.010s] byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/bluerov2_sensors.py to bluerov2_sensors.cpython-312.pyc
+[9.014s] byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/subscriber.py to subscriber.cpython-312.pyc
+[9.017s] byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/armdisarm.py to armdisarm.cpython-312.pyc
+[9.019s] byte-compiling /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros/__init__.py to __init__.cpython-312.pyc
+[9.021s] running install_data
+[9.021s] copying resource/intro_to_ros -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/ament_index/resource_index/packages
+[9.022s] copying package.xml -> /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/share/intro_to_ros
+[9.023s] running install_egg_info
+[9.129s] Copying build/intro_to_ros/intro_to_ros.egg-info to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro_to_ros-0.0.0-py3.12.egg-info
+[9.135s] running install_scripts
+[9.421s] Installing bluerov2_sensors script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+[9.422s] Installing publisher script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+[9.423s] Installing subscriber script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+[9.425s] writing list of installed files to '/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/install.log'
+[9.574s] Invoked command in '/home/shmk/auvc_ws/src/intro_to_ros' returned '0': PYTHONPATH=/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/intro_to_ros build --build-base /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build install --record /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/install.log --single-version-externally-managed install_data --force

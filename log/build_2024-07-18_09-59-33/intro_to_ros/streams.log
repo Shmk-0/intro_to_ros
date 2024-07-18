@@ -1,0 +1,32 @@
+[4.754s] Invoking command in '/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros': PYTHONPATH=/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build --no-deps symlink_data
+[6.421s] running develop
+[6.423s] /usr/lib/python3/dist-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[6.423s] !!
+[6.424s] 
+[6.424s]         ********************************************************************************
+[6.424s]         Please avoid running ``setup.py`` and ``easy_install``.
+[6.425s]         Instead, use pypa/build, pypa/installer or other
+[6.425s]         standards-based tools.
+[6.425s] 
+[6.426s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[6.426s]         ********************************************************************************
+[6.427s] 
+[6.427s] !!
+[6.427s]   easy_install.initialize_options(self)
+[7.585s] running egg_info
+[7.696s] writing intro_to_ros.egg-info/PKG-INFO
+[7.697s] writing dependency_links to intro_to_ros.egg-info/dependency_links.txt
+[7.698s] writing entry points to intro_to_ros.egg-info/entry_points.txt
+[7.699s] writing requirements to intro_to_ros.egg-info/requires.txt
+[7.700s] writing top-level names to intro_to_ros.egg-info/top_level.txt
+[7.912s] reading manifest file 'intro_to_ros.egg-info/SOURCES.txt'
+[7.915s] writing manifest file 'intro_to_ros.egg-info/SOURCES.txt'
+[8.023s] running build_ext
+[8.024s] Creating /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages/intro-to-ros.egg-link (link to .)
+[8.027s] Installing bluerov2_sensors script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+[8.027s] Installing publisher script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+[8.028s] Installing subscriber script to /home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/intro_to_ros
+[8.030s] 
+[8.030s] Installed /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros
+[8.031s] running symlink_data
+[8.199s] Invoked command in '/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros' returned '0': PYTHONPATH=/home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shmk/auvc_ws/src/intro_to_ros/install/intro_to_ros/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/shmk/auvc_ws/src/intro_to_ros/build/intro_to_ros/build --no-deps symlink_data
